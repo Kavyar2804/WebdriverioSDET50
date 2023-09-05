@@ -1,0 +1,1 @@
+{"5f32c1f08b7bc5d9360d80f7047986b9":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"178c860145b5bb99","status":"broken","statusDetails":"unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=116.0.5845.141)","time":{"start":1693570123160,"stop":1693570150955,"duration":27795}}]}}
